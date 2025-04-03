@@ -1,6 +1,5 @@
 
 # 👨‍💻 Vincent Larisma
-![](https://komarev.com/ghpvc/?username=vincent-larisma&color=green)
 
 🌟 **Welcome to my GitHub Profile!**
 
